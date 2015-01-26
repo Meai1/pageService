@@ -1,10 +1,10 @@
 {
     
     "name": "PageService",
-    "description": "Describe the app in a sentence or two",
-    "version": "0.7",
-    "category": "analytics",
-    "main": "public/javascripts/app_module.js",
+    "description": "A simple static page server that allows you to serve a static page of your choosing without paying for web hosting.",
+    "version": "1.0",
+    "category": "fileserving",
+    "main": "js/module.js",
     "config":{
         "details":{
             "Language": "English",
